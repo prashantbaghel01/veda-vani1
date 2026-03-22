@@ -1,0 +1,1292 @@
+[
+  {
+    "id": 1,
+    "title": "Bhagavad Gita",
+    "author": "Vyasa",
+    "cover": "/books/puranas-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Dilemma",
+        "text": "Life often puts us in situations where we feel paralyzed by choice. Like Arjuna, we must face our fears and confusion to find clarity.",
+        "quote": "Change is the law of the universe.",
+        "insight": "Accept that confusion is the first step toward seeking wisdom."
+      },
+      {
+        "page": 2,
+        "title": "Focus on Action",
+        "text": "We often worry too much about the results of our work. True peace comes when we focus entirely on the effort itself.",
+        "quote": "You have a right to your actions, but never to the fruits.",
+        "insight": "Do your best today without obsessing over tomorrow's rewards."
+      },
+      {
+        "page": 3,
+        "title": "Mastering the Mind",
+        "text": "An uncontrolled mind is our greatest enemy. Learning to stay calm in both success and failure is the key to a balanced life.",
+        "quote": "The mind is a friend to those who have conquered it.",
+        "insight": "Practice mindfulness to turn your mind into your most powerful tool."
+      },
+      {
+        "page": 4,
+        "title": "The Power of Faith",
+        "text": "Trusting in a higher purpose or your inner self provides strength during dark times. Faith removes the burden of carrying everything alone.",
+        "quote": "Man is made by his belief.",
+        "insight": "Believe in your potential and the path you have chosen."
+      },
+      {
+        "page": 5,
+        "title": "Selfless Service",
+        "text": "Helping others without expecting anything in return purifies the heart. It connects us to the world in a meaningful way.",
+        "quote": "Work for the welfare of the world.",
+        "insight": "Find small ways to contribute to others' happiness every day."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Rigveda",
+    "author": "Ancient Rishis",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Unity in Diversity",
+        "text": "The world is full of different voices and paths, but they all lead to the same ultimate truth. Respecting diversity is essential.",
+        "quote": "Truth is one, though the wise call it by many names.",
+        "insight": "Look for common ground even when people have different opinions."
+      },
+      {
+        "page": 2,
+        "title": "The Cosmic Order",
+        "text": "Everything in nature follows a rhythm and balance. When we live in harmony with nature, we find inner peace.",
+        "quote": "Let noble thoughts come to us from every side.",
+        "insight": "Stay open to learning from everyone and everything around you."
+      },
+      {
+        "page": 3,
+        "title": "Power of Speech",
+        "text": "Our words have the power to create or destroy. Speaking with kindness and truth can heal the world.",
+        "quote": "Speech is the essence of humanity.",
+        "insight": "Think before you speak to ensure your words add value."
+      },
+      {
+        "page": 4,
+        "title": "Gratitude to Nature",
+        "text": "The elements—fire, water, and air—sustain our life. Showing gratitude to the environment keeps us grounded.",
+        "quote": "The Earth is our mother.",
+        "insight": "Spend time in nature to recharge your spirit and show appreciation."
+      },
+      {
+        "page": 5,
+        "title": "Collective Progress",
+        "text": "We thrive when we move together as a community. Success is more meaningful when it is shared with others.",
+        "quote": "Walk together, speak together, let your minds be all of one accord.",
+        "insight": "Collaborate rather than compete to achieve greater goals."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Yajurveda",
+    "author": "Ancient Rishis",
+    "cover": "/books/yajurveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Purposeful Rituals",
+        "text": "Rituals are not just ceremonies; they are reminders of our intentions. Every action should have a clear and positive purpose.",
+        "quote": "May our intentions be noble.",
+        "insight": "Start your day with a clear intention to stay focused."
+      },
+      {
+        "page": 2,
+        "title": "Inner Strength",
+        "text": "True power comes from within, not from external possessions. Cultivating a strong character is the ultimate wealth.",
+        "quote": "May I be strong like a rock.",
+        "insight": "Build your resilience through daily discipline and integrity."
+      },
+      {
+        "page": 3,
+        "title": "Universal Peace",
+        "text": "Peace is not just the absence of war; it is a state of harmony within ourselves and with the entire universe.",
+        "quote": "Peace be to the heavens, peace to the earth.",
+        "insight": "Seek internal calm to radiate peace to those around you."
+      },
+      {
+        "page": 4,
+        "title": "The Gift of Giving",
+        "text": "Sharing what we have creates a cycle of abundance. Generosity is a spiritual practice that enriches the giver.",
+        "quote": "Give with faith and abundance.",
+        "insight": "Share your knowledge or resources to help someone grow."
+      },
+      {
+        "page": 5,
+        "title": "Living with Light",
+        "text": "Knowledge is the light that removes the darkness of ignorance. Always strive to learn and grow.",
+        "quote": "Lead me from darkness to light.",
+        "insight": "Read or learn something new every day to keep your mind bright."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Samaveda",
+    "author": "Ancient Rishis",
+    "cover": "/books/samaveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Power of Sound",
+        "text": "Music and chants have a profound impact on our emotions. Harmonious sounds can heal the mind and soul.",
+        "quote": "Melody is the bridge to the divine.",
+        "insight": "Listen to uplifting music to change your mood instantly."
+      },
+      {
+        "page": 2,
+        "title": "Inner Harmony",
+        "text": "Just as a song needs the right notes, life needs balance. Align your thoughts, words, and actions for a happy life.",
+        "quote": "Harmony is the highest law.",
+        "insight": "Check if your daily actions match your long-term values."
+      },
+      {
+        "page": 3,
+        "title": "Devotion and Joy",
+        "text": "Approaching life with a sense of wonder and devotion brings immense joy. Celebrate the small miracles of existence.",
+        "quote": "Sing the praises of the eternal.",
+        "insight": "Find one thing to be truly grateful for every morning."
+      },
+      {
+        "page": 4,
+        "title": "The Rhythm of Life",
+        "text": "Everything has its own timing. Learning to flow with the rhythm of life reduces stress and anxiety.",
+        "quote": "Flow like the sacred river.",
+        "insight": "Don't force results; trust the process and keep moving."
+      },
+      {
+        "page": 5,
+        "title": "Spiritual Upliftment",
+        "text": "Our ultimate goal is to rise above mundane worries. High thinking and simple living lead to true freedom.",
+        "quote": "Rise like the sun every day.",
+        "insight": "Focus on growth and positivity to elevate your life experience."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Atharvaveda",
+    "author": "Ancient Rishis",
+    "cover": "/books/atharvaveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Holistic Healing",
+        "text": "Health is a balance of body, mind, and spirit. Taking care of your physical well-being is a sacred duty.",
+        "quote": "May every limb be healthy.",
+        "insight": "Eat well and move your body to support your mental health."
+      },
+      {
+        "page": 2,
+        "title": "Protection and Safety",
+        "text": "We can create a safe environment through positive energy and careful actions. Awareness is our best shield.",
+        "quote": "Fearlessness is the path to peace.",
+        "insight": "Face your small fears daily to build lasting confidence."
+      },
+      {
+        "page": 3,
+        "title": "Prosperity and Success",
+        "text": "Hard work combined with ethical living brings true prosperity. Success should benefit both you and society.",
+        "quote": "May wealth flow to the righteous.",
+        "insight": "Work with integrity to ensure your success is sustainable."
+      },
+      {
+        "page": 4,
+        "title": "Family and Bonds",
+        "text": "Strong relationships are the foundation of a happy life. Nurture your family ties with love and patience.",
+        "quote": "Let the home be a place of love.",
+        "insight": "Spend quality time with loved ones without distractions."
+      },
+      {
+        "page": 5,
+        "title": "Wisdom for Daily Life",
+        "text": "Practical knowledge is just as important as spiritual depth. Use your intelligence to solve everyday problems.",
+        "quote": "Knowledge is the best companion.",
+        "insight": "Apply what you learn to improve your daily routines."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Upanishads",
+    "author": "Ancient Rishis",
+    "cover": "/books/upanishads-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Inner Self",
+        "text": "Beyond your name and body, there is a deeper essence. Discovering this inner self is the purpose of life.",
+        "quote": "Thou art that.",
+        "insight": "Remember that you are more than your external achievements."
+      },
+      {
+        "page": 2,
+        "title": "The Quest for Truth",
+        "text": "Don't just accept things blindly. Ask deep questions and seek the truth for yourself through experience.",
+        "quote": "Truth alone triumphs.",
+        "insight": "Be curious and never stop asking 'why' about the world."
+      },
+      {
+        "page": 3,
+        "title": "Overcoming Fear",
+        "text": "Fear comes from the feeling of being separate from others. Recognizing our connection to everyone removes fear.",
+        "quote": "Where there is unity, there is no fear.",
+        "insight": "Practice empathy to feel more connected and less alone."
+      },
+      {
+        "page": 4,
+        "title": "The Power of Silence",
+        "text": "In the noise of the world, we lose ourselves. Silence allows us to hear our inner voice and find clarity.",
+        "quote": "Silence is the language of the soul.",
+        "insight": "Take five minutes of complete silence every day."
+      },
+      {
+        "page": 5,
+        "title": "Infinite Potential",
+        "text": "You are not a small, limited being. You carry the potential of the entire universe within you.",
+        "quote": "From the infinite, only the infinite comes.",
+        "insight": "Don't limit your dreams based on your current circumstances."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Ramayana",
+    "author": "Valmiki",
+    "cover": "/books/ramayana-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Path of Duty",
+        "text": "Rama chose his responsibilities over his personal desires. Doing the right thing often requires sacrifice.",
+        "quote": "Dharma is the highest virtue.",
+        "insight": "Choose integrity over convenience, even when it's hard."
+      },
+      {
+        "page": 2,
+        "title": "The Power of Loyalty",
+        "text": "Hanuman's devotion shows that great things can be achieved through total commitment and selfless love.",
+        "quote": "Devotion can move mountains.",
+        "insight": "Be a reliable friend and stay committed to your goals."
+      },
+      {
+        "page": 3,
+        "title": "Conquering Ego",
+        "text": "Ravana was brilliant but destroyed by his pride. Intelligence without humility is a dangerous path.",
+        "quote": "Pride goes before a fall.",
+        "insight": "Stay humble no matter how much success you achieve."
+      },
+      {
+        "page": 4,
+        "title": "Strength in Adversity",
+        "text": "Sita's resilience during her struggles teaches us that inner strength is more powerful than external force.",
+        "quote": "Patience is the greatest strength.",
+        "insight": "Stay calm and composed when facing difficult times."
+      },
+      {
+        "page": 5,
+        "title": "Victory of Good",
+        "text": "No matter how strong evil seems, truth and goodness always win in the end. Keep doing good.",
+        "quote": "Truth always prevails.",
+        "insight": "Trust that your good actions will eventually bring good results."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mahabharata",
+    "author": "Vyasa",
+    "cover": "/books/mahabharata-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Complexity of Life",
+        "text": "Life isn't always black and white. Every character faces difficult moral choices, just like we do every day.",
+        "quote": "What is here is found elsewhere.",
+        "insight": "Understand that everyone is fighting their own complex battle."
+      },
+      {
+        "page": 2,
+        "title": "Consequences of Greed",
+        "text": "The war happened because of the refusal to share. Greed leads to destruction, while sharing leads to peace.",
+        "quote": "Greed is the root of all evil.",
+        "insight": "Learn to be content with what you have and share your joy."
+      },
+      {
+        "page": 3,
+        "title": "The Value of Wisdom",
+        "text": "Krishna's guidance shows that a wise mentor can change the course of your life. Seek wisdom, not just power.",
+        "quote": "Wisdom is better than weapons.",
+        "insight": "Find a mentor or books that challenge you to think better."
+      },
+      {
+        "page": 4,
+        "title": "Loyalty vs. Righteousness",
+        "text": "Karna was loyal but chose the wrong side. Loyalty is good, but standing for the truth is even better.",
+        "quote": "Stand by the truth, always.",
+        "insight": "Don't let personal ties blind you to what is right."
+      },
+      {
+        "page": 5,
+        "title": "The Eternal Struggle",
+        "text": "The real battle is within us—between our higher and lower selves. Every day is an opportunity to choose better.",
+        "quote": "Victory belongs to the righteous.",
+        "insight": "Focus on winning the battle against your own bad habits."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Vishnu Purana",
+    "author": "Vyasa",
+    "cover": "/books/puranas-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Cycle of Time",
+        "text": "The world goes through constant cycles of creation and change. Understanding this helps us stay calm during shifts.",
+        "quote": "Everything flows in cycles.",
+        "insight": "Don't get too attached to current highs or lows; things will change."
+      },
+      {
+        "page": 2,
+        "title": "Preserving Balance",
+        "text": "Vishnu represents the force that maintains order. We must also work to preserve balance in our own lives.",
+        "quote": "Balance is the key to existence.",
+        "insight": "Balance your work, rest, and play for a healthy life."
+      },
+      {
+        "page": 3,
+        "title": "Devotion of Prahlad",
+        "text": "A young boy's unwavering faith protected him from all harm. Belief can be a powerful shield against negativity.",
+        "quote": "Faith can overcome any obstacle.",
+        "insight": "Keep your values strong even when others try to discourage you."
+      },
+      {
+        "page": 4,
+        "title": "The Value of Patience",
+        "text": "Great transformations take time. Patience is necessary to see the results of your long-term efforts.",
+        "quote": "Time heals and transforms.",
+        "insight": "Give your goals time to grow; don't rush the process."
+      },
+      {
+        "page": 5,
+        "title": "Universal Connection",
+        "text": "The divine exists in every atom of the universe. Treating everything with respect is a form of worship.",
+        "quote": "See the divine in all.",
+        "insight": "Treat every person and object with care and respect."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Shiva Purana",
+    "author": "Vyasa",
+    "cover": "/books/puranas-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Power of Transformation",
+        "text": "Destruction is often necessary for new growth. Letting go of old habits makes room for a better version of you.",
+        "quote": "Endings are just new beginnings.",
+        "insight": "Don't fear letting go of things that no longer serve you."
+      },
+      {
+        "page": 2,
+        "title": "Simplicity and Greatness",
+        "text": "Shiva lives simply despite his immense power. True greatness doesn't need fancy displays or luxury.",
+        "quote": "Simplicity is the ultimate sophistication.",
+        "insight": "Focus on being great, not just looking great."
+      },
+      {
+        "page": 3,
+        "title": "Conquering Desires",
+        "text": "The third eye represents the power of wisdom over worldly desires. Seeing clearly helps us make better choices.",
+        "quote": "Look beyond the surface.",
+        "insight": "Think about the long-term impact before acting on a whim."
+      },
+      {
+        "page": 4,
+        "title": "The Strength of Meditation",
+        "text": "Inner stillness provides the strength to handle life's chaos. Meditation is the path to finding that center.",
+        "quote": "Stillness is the source of power.",
+        "insight": "Find a quiet space daily to just sit and breathe."
+      },
+      {
+        "page": 5,
+        "title": "Unity of Opposites",
+        "text": "Life is a mix of creation and destruction, male and female, light and dark. Embrace the whole of life.",
+        "quote": "The universe is a dance of energy.",
+        "insight": "Accept both the joys and sorrows of life as part of the journey."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Arthashastra",
+    "author": "Chanakya",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Importance of Discipline",
+        "text": "Success requires strict self-discipline. A person who cannot control themselves cannot lead others.",
+        "quote": "Discipline is the root of success.",
+        "insight": "Set small daily rules for yourself and stick to them."
+      },
+      {
+        "page": 2,
+        "title": "Strategic Thinking",
+        "text": "Don't just work hard; work smart. Planning and strategy are essential to overcome obstacles efficiently.",
+        "quote": "A wise man plans before he acts.",
+        "insight": "Spend time planning your week to save time later."
+      },
+      {
+        "page": 3,
+        "title": "The Value of Knowledge",
+        "text": "Information is power. Always stay updated and keep learning about your field and the world.",
+        "quote": "Knowledge is the greatest wealth.",
+        "insight": "Stay curious and keep gathering useful information."
+      },
+      {
+        "page": 4,
+        "title": "Financial Management",
+        "text": "Managing resources wisely is key to stability. Avoid unnecessary waste and save for the future.",
+        "quote": "Wealth follows the industrious.",
+        "insight": "Track your expenses and avoid impulsive spending."
+      },
+      {
+        "page": 5,
+        "title": "Leadership and Ethics",
+        "text": "A leader's happiness lies in the happiness of their people. True leadership is about serving others.",
+        "quote": "In the happiness of his subjects lies the king's happiness.",
+        "insight": "Focus on how your work helps or benefits others."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Yoga Sutras of Patanjali",
+    "author": "Patanjali",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Calming the Mind",
+        "text": "Yoga is about stopping the constant chatter of the mind. When the mind is still, we see our true self.",
+        "quote": "Yoga is the cessation of mind-fluctuations.",
+        "insight": "Notice your thoughts without getting swept away by them."
+      },
+      {
+        "page": 2,
+        "title": "The Power of Practice",
+        "text": "Consistency is the only way to see results. Small, daily efforts lead to massive transformations over time.",
+        "quote": "Practice becomes firm when done for a long time.",
+        "insight": "Choose one healthy habit and do it every single day."
+      },
+      {
+        "page": 3,
+        "title": "Non-Attachment",
+        "text": "We suffer because we cling to things and people. Learning to let go brings true emotional freedom.",
+        "quote": "Let go of what you cannot control.",
+        "insight": "Focus on your effort and let go of the need for a specific outcome."
+      },
+      {
+        "page": 4,
+        "title": "Living with Integrity",
+        "text": "Truthfulness, non-violence, and honesty are the foundations of a peaceful life. They simplify everything.",
+        "quote": "Truth brings clarity.",
+        "insight": "Be honest even in small things to build self-trust."
+      },
+      {
+        "page": 5,
+        "title": "Inner Contentment",
+        "text": "Happiness comes from being satisfied with what you have. External things can never provide lasting joy.",
+        "quote": "Contentment brings supreme happiness.",
+        "insight": "Appreciate what you have right now instead of waiting for more."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Ashtavakra Gita",
+    "author": "Ashtavakra",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "You are Already Free",
+        "text": "We often think we need to achieve something to be free. This book says you are inherently free right now.",
+        "quote": "You are the witness of all.",
+        "insight": "Stop seeking validation outside; your worth is already within."
+      },
+      {
+        "page": 2,
+        "title": "The Trap of Desire",
+        "text": "Desire is like a fire that never goes out. Recognizing that you are already complete puts an end to the struggle.",
+        "quote": "Desire is the root of bondage.",
+        "insight": "Notice when you feel 'not enough' and remind yourself of your completeness."
+      },
+      {
+        "page": 3,
+        "title": "Observing the World",
+        "text": "The world is like a dream or a play. Don't take it too seriously; just play your part with a light heart.",
+        "quote": "The world is a mere appearance.",
+        "insight": "Don't let daily stresses ruin your inner peace."
+      },
+      {
+        "page": 4,
+        "title": "Effortless Living",
+        "text": "True wisdom is living without constant struggle. When you stop resisting life, things happen naturally.",
+        "quote": "Be happy, stay as you are.",
+        "insight": "Try to flow with the day instead of fighting every obstacle."
+      },
+      {
+        "page": 5,
+        "title": "The Joy of Being",
+        "text": "Happiness is your natural state. You don't need a reason to be happy; just being alive is enough.",
+        "quote": "I am pure consciousness.",
+        "insight": "Smile for no reason today and feel the shift in your energy."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Bhaja Govindam",
+    "author": "Adi Shankara",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Focus on the Eternal",
+        "text": "Seek the divine, O fool!",
+        "quote": "Focus on what truly matters in the long run.",
+        "insight": "Invest time in your character and soul, not just your bank account."
+      },
+      {
+        "page": 2,
+        "title": "The Passage of Time",
+        "text": "Youth and wealth fade away quickly. Don't wait for old age to start thinking about the meaning of life.",
+        "quote": "Time flies like an arrow.",
+        "insight": "Start working on your spiritual and mental growth today."
+      },
+      {
+        "page": 3,
+        "title": "The Illusion of Possession",
+        "text": "We don't really own anything. We are just temporary visitors in this world. Live with a sense of detachment.",
+        "quote": "Who is your wife? Who is your son?",
+        "insight": "Love people deeply but don't try to possess or control them."
+      },
+      {
+        "page": 4,
+        "title": "Company of the Wise",
+        "text": "The people you spend time with shape your thoughts. Seek the company of those who inspire you to be better.",
+        "quote": "Good company leads to liberation.",
+        "insight": "Choose friends who talk about ideas and growth, not gossip."
+      },
+      {
+        "page": 5,
+        "title": "The Power of Devotion",
+        "text": "A simple heart full of love is better than a head full of complex logic. Devotion simplifies the path to peace.",
+        "quote": "Sing the name of the Lord.",
+        "insight": "Practice simple acts of love and kindness every day."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Dhammapada",
+    "author": "Gautama Buddha",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Thoughts Shape Reality",
+        "text": "Our life is the result of our thoughts. If we think pure thoughts, happiness follows us like a shadow.",
+        "quote": "We are what we think.",
+        "insight": "Monitor your self-talk and replace negative thoughts with positive ones."
+      },
+      {
+        "page": 2,
+        "title": "Conquering Anger",
+        "text": "Anger only hurts the person who holds it. Forgiveness and kindness are the only ways to end conflict.",
+        "quote": "Hatred never ceases by hatred.",
+        "insight": "Let go of a grudge today to free your own mind."
+      },
+      {
+        "page": 3,
+        "title": "The Value of Vigilance",
+        "text": "Stay awake and aware of your actions. Laziness is the path to failure, while awareness leads to success.",
+        "quote": "Vigilance is the path to immortality.",
+        "insight": "Be fully present in whatever task you are doing right now."
+      },
+      {
+        "page": 4,
+        "title": "Self-Mastery",
+        "text": "Winning a thousand battles is nothing compared to winning over yourself. Control your impulses and desires.",
+        "quote": "One who conquers himself is the greatest warrior.",
+        "insight": "Practice saying 'no' to a small temptation today."
+      },
+      {
+        "page": 5,
+        "title": "The Middle Path",
+        "text": "Avoid extremes in life. A balanced approach to everything leads to lasting peace and clarity.",
+        "quote": "The middle way is the best way.",
+        "insight": "Find balance between working hard and taking care of yourself."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Gitanjali",
+    "author": "Rabindranath Tagore",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Song of Life",
+        "text": "Life is a beautiful melody if we learn to listen. Every moment is an opportunity to connect with the divine.",
+        "quote": "I am here to sing thee songs.",
+        "insight": "Look for beauty in the simple things around you today."
+      },
+      {
+        "page": 2,
+        "title": "Humility in Service",
+        "text": "True spirituality is found in the dusty roads and hard work of common people, not just in temples.",
+        "quote": "He is there where the tiller is tilling.",
+        "insight": "Respect every kind of work and find dignity in labor."
+      },
+      {
+        "page": 3,
+        "title": "Freedom of Mind",
+        "text": "True freedom is when the mind is without fear and the head is held high. Strive for intellectual and moral liberty.",
+        "quote": "Where the mind is without fear.",
+        "insight": "Speak your truth and don't let fear hold back your ideas."
+      },
+      {
+        "page": 4,
+        "title": "The Journey Within",
+        "text": "We travel far to find what is already inside us. The longest journey is the one that leads to your own heart.",
+        "quote": "The traveler has to knock at every alien door to come to his own.",
+        "insight": "Spend time alone to understand your own desires and dreams."
+      },
+      {
+        "page": 5,
+        "title": "Surrender to Love",
+        "text": "Love is the ultimate truth. When we surrender our ego to love, we find the greatest strength and peace.",
+        "quote": "Love is the only reality.",
+        "insight": "Let love be the guiding force in all your interactions."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Meghaduta",
+    "author": "Kalidasa",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Power of Memory",
+        "text": "Even when separated, love lives on through memories. Our mind can bridge any distance through imagination.",
+        "quote": "Love knows no distance.",
+        "insight": "Cherish your good memories to stay positive during lonely times."
+      },
+      {
+        "page": 2,
+        "title": "Nature as a Messenger",
+        "text": "The clouds, wind, and mountains are all connected to our emotions. Nature reflects our inner state.",
+        "quote": "The cloud is a messenger of the heart.",
+        "insight": "Observe the weather and nature to connect with your feelings."
+      },
+      {
+        "page": 3,
+        "title": "The Beauty of Longing",
+        "text": "Waiting for something makes it more precious. Longing is a sign of deep value and commitment.",
+        "quote": "Absence makes the heart grow fonder.",
+        "insight": "Use periods of waiting to build your patience and resolve."
+      },
+      {
+        "page": 4,
+        "title": "Vivid Imagination",
+        "text": "Our ability to visualize can bring comfort and hope. See the beauty of your goals clearly in your mind.",
+        "quote": "The mind travels faster than the wind.",
+        "insight": "Visualize your success in detail to stay motivated."
+      },
+      {
+        "page": 5,
+        "title": "Universal Emotions",
+        "text": "Feelings of love and separation are common to all beings. We are all connected by our shared human experiences.",
+        "quote": "The heart speaks a universal language.",
+        "insight": "Be kind to others, knowing they feel the same joys and pains as you."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Abhijnanasakuntalam",
+    "author": "Kalidasa",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Magic of First Meetings",
+        "text": "Life-changing connections often happen unexpectedly. Stay open to the people you meet in your journey.",
+        "quote": "Destiny brings souls together.",
+        "insight": "Treat every new meeting as a potential opportunity for growth."
+      },
+      {
+        "page": 2,
+        "title": "The Weight of a Promise",
+        "text": "Forgetting a commitment can lead to great suffering. Integrity means keeping your word even when it's difficult.",
+        "quote": "A promise is a sacred bond.",
+        "insight": "Only make promises you fully intend to keep."
+      },
+      {
+        "page": 3,
+        "title": "Nature's Sympathy",
+        "text": "The plants and animals around us are our family. Living in harmony with them brings a sense of belonging.",
+        "quote": "Nature weeps with the sorrowful.",
+        "insight": "Treat animals and plants with the same kindness you show humans."
+      },
+      {
+        "page": 4,
+        "title": "The Power of Recognition",
+        "text": "Sometimes we lose our way or forget who we are. Finding our way back to our true self is the ultimate victory.",
+        "quote": "Truth cannot be hidden forever.",
+        "insight": "Be patient; the truth will eventually come to light."
+      },
+      {
+        "page": 5,
+        "title": "Redemption through Love",
+        "text": "Mistakes can be forgiven and relationships can be healed. Love has the power to fix what was broken.",
+        "quote": "Love heals all wounds.",
+        "insight": "Be willing to forgive and rebuild bridges when possible."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Panchatantra",
+    "author": "Vishnu Sharma",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Choosing Friends Wisely",
+        "text": "Your success depends on the people you surround yourself with. A bad friend is more dangerous than an enemy.",
+        "quote": "A true friend is a rare treasure.",
+        "insight": "Evaluate your circle and spend time with those who lift you up."
+      },
+      {
+        "page": 2,
+        "title": "The Power of Wit",
+        "text": "Intelligence can overcome physical strength. Use your brain to solve problems instead of just using force.",
+        "quote": "Knowledge is power.",
+        "insight": "Think creatively when you face a difficult challenge."
+      },
+      {
+        "page": 3,
+        "title": "Beware of Flattery",
+        "text": "People who praise you too much often have hidden motives. Stay grounded and don't let ego cloud your judgment.",
+        "quote": "Flattery is the food of fools.",
+        "insight": "Value honest feedback over empty praise."
+      },
+      {
+        "page": 4,
+        "title": "Unity is Strength",
+        "text": "Even small and weak beings can achieve great things if they work together. Collaboration is key.",
+        "quote": "United we stand, divided we fall.",
+        "insight": "Look for ways to work with others to solve big problems."
+      },
+      {
+        "page": 5,
+        "title": "Think Before You Act",
+        "text": "Acting in haste leads to regret. Always consider the consequences of your actions before taking a step.",
+        "quote": "Look before you leap.",
+        "insight": "Take a moment to pause before making an important decision."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Hitopadesha",
+    "author": "Narayana Pandit",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Value of Education",
+        "text": "Learning is the only wealth that cannot be stolen. It gives you the tools to navigate any situation in life.",
+        "quote": "Knowledge is the highest wealth.",
+        "insight": "Invest in your skills; they are your most reliable assets."
+      },
+      {
+        "page": 2,
+        "title": "Practical Wisdom",
+        "text": "Common sense is often more useful than bookish knowledge. Learn to read people and situations accurately.",
+        "quote": "Wisdom is the eye of the soul.",
+        "insight": "Pay attention to the small details in your environment."
+      },
+      {
+        "page": 3,
+        "title": "The Danger of Greed",
+        "text": "Chasing quick gains often leads to long-term losses. Be content and work steadily toward your goals.",
+        "quote": "Greed leads to grief.",
+        "insight": "Avoid 'get rich quick' schemes and focus on real value."
+      },
+      {
+        "page": 4,
+        "title": "Loyalty and Trust",
+        "text": "Trust is hard to build but easy to break. Be a person of your word to earn the respect of others.",
+        "quote": "Trust is the foundation of friendship.",
+        "insight": "Be consistent in your actions to build lasting trust."
+      },
+      {
+        "page": 5,
+        "title": "Adaptability",
+        "text": "The world is always changing. Those who can adapt their strategies will always find a way to succeed.",
+        "quote": "Change with the times.",
+        "insight": "Be willing to change your approach if it's not working."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "The Discovery of India",
+    "author": "Jawaharlal Nehru",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "A Tapestry of Culture",
+        "text": "India is a mix of many civilizations and ideas. Our strength lies in our ability to absorb and integrate diversity.",
+        "quote": "Unity in diversity.",
+        "insight": "Appreciate the different backgrounds of the people you meet."
+      },
+      {
+        "page": 2,
+        "title": "Learning from History",
+        "text": "The past shapes our present. Understanding our roots helps us build a better and more informed future.",
+        "quote": "History is a living force.",
+        "insight": "Learn about your heritage to understand your own identity."
+      },
+      {
+        "page": 3,
+        "title": "The Scientific Temper",
+        "text": "We should approach life with logic and a desire to learn. Curiosity and reason are essential for progress.",
+        "quote": "Seek the truth through reason.",
+        "insight": "Base your opinions on facts rather than just emotions."
+      },
+      {
+        "page": 4,
+        "title": "The Spirit of Resilience",
+        "text": "Despite many invasions and struggles, the spirit of India has survived. Resilience is part of our DNA.",
+        "quote": "The spirit of man is indomitable.",
+        "insight": "Remember your inner strength when facing tough times."
+      },
+      {
+        "page": 5,
+        "title": "Building a Nation",
+        "text": "A country is built by the hard work and vision of its people. We all have a role to play in progress.",
+        "quote": "The future belongs to us.",
+        "insight": "Think about how you can contribute to your community."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Dream Big",
+        "text": "Dreams are not what you see in sleep; they are things that don't let you sleep. Have a vision for your life.",
+        "quote": "Dream, dream, dream.",
+        "insight": "Write down your biggest goals and look at them daily."
+      },
+      {
+        "page": 2,
+        "title": "Failure is a Teacher",
+        "text": "Failures are just stepping stones to success. Every setback contains a lesson that makes you stronger.",
+        "quote": "FAIL means First Attempt In Learning.",
+        "insight": "Don't be afraid to make mistakes; just learn from them."
+      },
+      {
+        "page": 3,
+        "title": "Hard Work and Dedication",
+        "text": "There is no substitute for sweat and toil. Success comes to those who are willing to put in the hours.",
+        "quote": "To shine like the sun, you must burn like the sun.",
+        "insight": "Be prepared to work harder than everyone else to reach your goal."
+      },
+      {
+        "page": 4,
+        "title": "The Power of Teamwork",
+        "text": "Great projects like rockets are built by teams, not individuals. Respect and trust your colleagues.",
+        "quote": "Together we can achieve the impossible.",
+        "insight": "Be a supportive team member and value others' input."
+      },
+      {
+        "page": 5,
+        "title": "Humility and Service",
+        "text": "No matter how high you fly, stay connected to your roots. Use your success to serve your country and people.",
+        "quote": "Be humble in your heart.",
+        "insight": "Help someone else succeed once you have reached your goal."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Ignited Minds",
+    "author": "A.P.J. Abdul Kalam",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Unleashing Potential",
+        "text": "Every young person has a unique fire within them. The goal of life is to ignite that fire and change the world.",
+        "quote": "Ignited minds are the most powerful resource.",
+        "insight": "Identify your unique talent and start developing it today."
+      },
+      {
+        "page": 2,
+        "title": "Breaking Barriers",
+        "text": "Don't let small thinking or social barriers stop you. You have the right to think big and achieve greatness.",
+        "quote": "Thinking is progress.",
+        "insight": "Challenge your own limiting beliefs every day."
+      },
+      {
+        "page": 3,
+        "title": "Role of Teachers",
+        "text": "A good teacher can change a student's life forever. Seek mentors who challenge you to think beyond books.",
+        "quote": "Teachers are the builders of a nation.",
+        "insight": "Find someone you admire and learn from their journey."
+      },
+      {
+        "page": 4,
+        "title": "National Vision",
+        "text": "We should all work toward a common goal of making our country developed and prosperous. Unity is key.",
+        "quote": "Vision creates the path.",
+        "insight": "Align your personal goals with the welfare of society."
+      },
+      {
+        "page": 5,
+        "title": "Spirit of Inquiry",
+        "text": "Always ask questions and seek better ways of doing things. Innovation comes from a restless and curious mind.",
+        "quote": "Curiosity is the mother of invention.",
+        "insight": "Try to find a better way to do one routine task today."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "My Experiments with Truth",
+    "author": "Mahatma Gandhi",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "The Power of Truth",
+        "text": "Truth is not just about speaking correctly; it's a way of living. Being honest with yourself is the first step.",
+        "quote": "Truth is God.",
+        "insight": "Admit your mistakes quickly to maintain your integrity."
+      },
+      {
+        "page": 2,
+        "title": "Non-Violence",
+        "text": "Non-violence is the weapon of the strong, not the weak. It requires immense courage to respond to hate with love.",
+        "quote": "An eye for an eye makes the whole world blind.",
+        "insight": "Choose calm communication over aggressive arguments."
+      },
+      {
+        "page": 3,
+        "title": "Self-Discipline",
+        "text": "Controlling your diet, speech, and habits gives you immense inner power. Discipline is the key to freedom.",
+        "quote": "Be the change you wish to see.",
+        "insight": "Change one small habit in yourself before asking others to change."
+      },
+      {
+        "page": 4,
+        "title": "Simple Living",
+        "text": "Reducing your needs makes you more independent and peaceful. Focus on what is necessary, not just what is desired.",
+        "quote": "The world has enough for everyone's need, but not greed.",
+        "insight": "Declutter your space and your mind to find more focus."
+      },
+      {
+        "page": 5,
+        "title": "Service to Humanity",
+        "text": "The best way to find yourself is to lose yourself in the service of others. Helping others is the ultimate goal.",
+        "quote": "Service without humility is selfishness.",
+        "insight": "Do one kind act today without telling anyone about it."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "The Argumentative Indian",
+    "author": "Amartya Sen",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Tradition of Debate",
+        "text": "India has a long history of open discussion and disagreement. This culture of debate is essential for a healthy society.",
+        "quote": "Discussion is the soul of democracy.",
+        "insight": "Listen to opposing views with an open mind."
+      },
+      {
+        "page": 2,
+        "title": "Pluralism and Identity",
+        "text": "We all have multiple identities—religion, language, profession. Don't let one single identity define you or others.",
+        "quote": "We are many things at once.",
+        "insight": "Look for the many layers in people instead of stereotyping them."
+      },
+      {
+        "page": 3,
+        "title": "Value of Heterodoxy",
+        "text": "Progress comes from those who question the status quo. Embracing different ideas leads to innovation and growth.",
+        "quote": "Diversity of thought is a strength.",
+        "insight": "Encourage different opinions in your team or family."
+      },
+      {
+        "page": 4,
+        "title": "Social Justice",
+        "text": "Development is not just about GDP; it's about the freedom and capabilities of every individual in society.",
+        "quote": "Freedom is the end and the means.",
+        "insight": "Think about how your choices impact the less fortunate."
+      },
+      {
+        "page": 5,
+        "title": "Global Connection",
+        "text": "India has always been connected to the world through trade and ideas. We should remain open to global influences.",
+        "quote": "No culture is an island.",
+        "insight": "Learn about other cultures to broaden your perspective."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "1% Better Every Day",
+        "text": "Small improvements add up to massive results over time. Focus on getting just a little bit better each day.",
+        "quote": "Habits are the compound interest of self-improvement.",
+        "insight": "Improve one tiny part of your routine today."
+      },
+      {
+        "page": 2,
+        "title": "Systems over Goals",
+        "text": "Don't just focus on the end result. Build a system or a routine that makes success inevitable.",
+        "quote": "You fall to the level of your systems.",
+        "insight": "Focus on the daily process rather than the final goal."
+      },
+      {
+        "page": 3,
+        "title": "Identity-Based Habits",
+        "text": "The best way to change a habit is to change how you see yourself. Act like the person you want to become.",
+        "quote": "Every action is a vote for the person you wish to be.",
+        "insight": "Ask yourself: 'What would a healthy/productive person do now?'"
+      },
+      {
+        "page": 4,
+        "title": "Make it Easy",
+        "text": "Reduce the friction for good habits and increase it for bad ones. Design your environment for success.",
+        "quote": "Environment is the invisible hand that shapes behavior.",
+        "insight": "Put your workout clothes out the night before to make exercise easier."
+      },
+      {
+        "page": 5,
+        "title": "Never Miss Twice",
+        "text": "Mistakes happen, but don't let them become a new habit. If you fail once, get back on track immediately.",
+        "quote": "The first mistake is never the one that ruins you.",
+        "insight": "If you miss a habit today, make it your top priority tomorrow."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Follow Your Dream",
+        "text": "Everyone has a 'Personal Legend' or a dream. The universe conspires to help those who are brave enough to pursue it.",
+        "quote": "When you want something, the universe conspires to help you.",
+        "insight": "Don't ignore the quiet voice in your heart telling you what to do."
+      },
+      {
+        "page": 2,
+        "title": "Listen to Your Heart",
+        "text": "Your heart knows the truth even when your mind is afraid. Learn to trust your intuition and feelings.",
+        "quote": "Wherever your heart is, that is where you'll find your treasure.",
+        "insight": "Take a moment to check in with your feelings before big decisions."
+      },
+      {
+        "page": 3,
+        "title": "The Language of Omens",
+        "text": "The world speaks to us through signs and coincidences. Pay attention to the small details in your daily life.",
+        "quote": "Everything is written in the same hand.",
+        "insight": "Notice the 'lucky' breaks and learn from them."
+      },
+      {
+        "page": 4,
+        "title": "Fear of Failure",
+        "text": "There is only one thing that makes a dream impossible: the fear of failure.",
+        "quote": "The fear of suffering is worse than the suffering itself.",
+        "insight": "Take one small risk today to move toward your dream."
+      },
+      {
+        "page": 5,
+        "title": "The Present Moment",
+        "text": "The secret of life is to be fully present in the now. If you can stay in the present, you will be a happy man.",
+        "quote": "I live only in my present.",
+        "insight": "Focus entirely on your current task and enjoy it."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Financial Education",
+        "text": "School teaches us how to work for money, but not how to make money work for us. Financial literacy is essential.",
+        "quote": "The poor work for money. The rich have money work for them.",
+        "insight": "Start learning about how money and investments actually work."
+      },
+      {
+        "page": 2,
+        "title": "Assets vs. Liabilities",
+        "text": "An asset puts money in your pocket. A liability takes money out. Buy assets if you want to be wealthy.",
+        "quote": "Rich people acquire assets. The poor acquire liabilities.",
+        "insight": "Before buying something, ask if it will make you money or cost you money."
+      },
+      {
+        "page": 3,
+        "title": "Mind Your Own Business",
+        "text": "Don't just work for your boss; work for yourself. Build your own portfolio of investments while you keep your job.",
+        "quote": "The rich focus on their asset columns.",
+        "insight": "Start a small side project or investment plan today."
+      },
+      {
+        "page": 4,
+        "title": "Overcoming Fear",
+        "text": "Most people are held back by the fear of losing money. Learn to manage risk instead of avoiding it entirely.",
+        "quote": "In the real world, the smart don't get ahead, the bold do.",
+        "insight": "Don't let the fear of loss stop you from making smart investments."
+      },
+      {
+        "page": 5,
+        "title": "Work to Learn",
+        "text": "In your early career, choose jobs for what you can learn, not just what you can earn. Skills are more valuable than a paycheck.",
+        "quote": "Work to learn, don't work for money.",
+        "insight": "Take on a challenging task at work to gain a new skill."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Power of Desire",
+        "text": "A burning desire is the starting point of all achievement. You must want your goal with total intensity.",
+        "quote": "Whatever the mind can conceive and believe, it can achieve.",
+        "insight": "Define exactly what you want and why you want it."
+      },
+      {
+        "page": 2,
+        "title": "The Role of Faith",
+        "text": "Faith is a state of mind which may be induced by self-suggestion. Believe that you will reach your goal.",
+        "quote": "Faith is the head chemist of the mind.",
+        "insight": "Repeat your goals to yourself every morning to build belief."
+      },
+      {
+        "page": 3,
+        "title": "Specialized Knowledge",
+        "text": "General knowledge is not enough. You need specific skills and information to provide value and get ahead.",
+        "quote": "Knowledge is only potential power.",
+        "insight": "Become an expert in one specific area of your work."
+      },
+      {
+        "page": 4,
+        "title": "Persistence",
+        "text": "Most people quit just before they succeed. Persistence is the difference between failure and a massive win.",
+        "quote": "A quitter never wins and a winner never quits.",
+        "insight": "Keep going even when things get difficult and slow."
+      },
+      {
+        "page": 5,
+        "title": "The Master Mind",
+        "text": "Surround yourself with a group of people who share your vision and can help you. Two heads are better than one.",
+        "quote": "No individual has sufficient experience to insure success alone.",
+        "insight": "Find a group of like-minded people to discuss your goals with."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "cover": "/books/rigveda-cover.jpg",
+    "pages": [
+      {
+        "page": 1,
+        "title": "Living in the Now",
+        "text": "Most of our suffering comes from worrying about the past or the future. The only real time is right now.",
+        "quote": "Realize deeply that the present moment is all you have.",
+        "insight": "When you feel stressed, bring your attention back to your breath."
+      },
+      {
+        "page": 2,
+        "title": "The Trap of the Ego",
+        "text": "Our ego loves to complain and feel superior. Recognizing this 'voice in the head' is the first step to freedom.",
+        "quote": "You are not your mind.",
+        "insight": "Observe your thoughts as if you are a third party watching them."
+      },
+      {
+        "page": 3,
+        "title": "Acceptance is Peace",
+        "text": "Resistance to the present moment creates pain. Accept what is happening right now, then take action if needed.",
+        "quote": "Accept, then act.",
+        "insight": "Stop fighting reality; accept the situation and then decide your next move."
+      },
+      {
+        "page": 4,
+        "title": "The Pain-Body",
+        "text": "We all carry old emotional pain that gets triggered. Awareness helps us stop feeding this pain and start healing.",
+        "quote": "Awareness is the power that is concealed within the present moment.",
+        "insight": "When you feel a strong negative emotion, just feel it without judging it."
+      },
+      {
+        "page": 5,
+        "title": "Finding Stillness",
+        "text": "True intelligence operates in silence. Finding moments of stillness allows you to access a deeper level of wisdom.",
+        "quote": "Stillness is where the divine lives.",
+        "insight": "Take a 'stillness break' for one minute every hour."
+      }
+    ]
+  }
+]

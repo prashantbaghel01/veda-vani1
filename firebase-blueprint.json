@@ -1,0 +1,51 @@
+{
+  "entities": {
+    "Book": {
+      "title": "Book",
+      "description": "A book summary with ancient wisdom.",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string", "description": "The title of the book." },
+        "author": { "type": "string", "description": "The author of the book." },
+        "category": { "type": "string", "description": "The category of the book." },
+        "readingTime": { "type": "string", "description": "Estimated reading time." },
+        "cover": { "type": "string", "description": "URL to the cover image." },
+        "summary": { "type": "string", "description": "A brief summary of the book." },
+        "teachings": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Key teachings from the book."
+        },
+        "quotes": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Memorable quotes."
+        },
+        "chapters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": { "type": "string" },
+              "summary": { "type": "string" },
+              "image": { "type": "string" }
+            }
+          },
+          "description": "Chapters of the book summary."
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Searchable tags."
+        }
+      },
+      "required": ["title", "author", "category", "readingTime", "cover", "summary"]
+    }
+  },
+  "firestore": {
+    "books": {
+      "schema": "Book",
+      "description": "Collection of ancient wisdom book summaries."
+    }
+  }
+}
